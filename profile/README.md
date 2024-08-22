@@ -6,7 +6,7 @@
 
 The **RIVAGE** project aims to compile and analyse a database on **island vulnerability** to global change for birds, plants and mammals. The objective of RIVAGE is to assess the vulnerability of island assemblages to three major threats (i.e., climate change, land use change, and biological invasions) by including the exposure, sensitivity and adaptive capacity of species to these threats. Ultimately, RIVAGE will provide guidance on conservation priorities for islands based on multiple decision scenarios.
 
-**RIVAGE** is led by [Céline Bellard](https://celinebellard.wordpress.com/) (CNRS, France) & [W. Daniel Kissling](https://www.danielkissling.de/) (University of Amsterdam, Netherlands) and includes experts in vulnerability assessment, island biogeography, functional and phylogenetic diversity, as well as plant and vertebrate experts with a particular interest in macroecology and conservation. [Clara Marino](https://www.fondationbiodiversite.fr/membre/clara-marino/) is funded for a two-year post-doctoral fellowship by the FRB-CESAB to work on RIVAGE.
+**RIVAGE** is led by [Céline Bellard](https://celinebellard.wordpress.com/) (CNRS, France) & [Ana Benitez-Lopez](https://www.anabenitezlopez.com/) (MNCN-CSIC, Spain) and includes experts in vulnerability assessment, island biogeography, functional and phylogenetic diversity, as well as plant and vertebrate experts with a particular interest in macroecology and conservation. [Clara Marino](https://www.fondationbiodiversite.fr/membre/clara-marino/) is funded for a two-year post-doctoral fellowship by the FRB-CESAB to work on RIVAGE.
 
 **Members of RIVAGE:**
 
@@ -14,10 +14,6 @@ The **RIVAGE** project aims to compile and analyse a database on **island vulner
   <tr>
     <td><b>Member</b></td>
     <td><b>Affiliation</b></td>
-  </tr>
-  <tr>
-    <td>Ana BENITEZ-LOPEZ</td>
-    <td>MNCN-CSIC (Spain)</td>
   </tr>
   <tr>
     <td>Nathalie BUTT</td>
