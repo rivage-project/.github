@@ -25,7 +25,7 @@ The **RIVAGE** project aims to compile and analyse a database on **island vulner
   </tr>
   <tr>
     <td>Pierre DENELLE</td>
-    <td>University of Gottingen (Austria)</td>
+    <td>University of Goettingen (Germany)</td>
   </tr>
   <tr>
     <td>José María FERNANDEZ-PALACIOS</td>
